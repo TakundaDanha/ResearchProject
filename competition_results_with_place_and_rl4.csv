@@ -1,0 +1,10 @@
+Name,PreTotal,PostTotal,Type,Place Strategy Value,Squat_Attempt_1_Weight,Squat_Attempt_1_Success,Squat_Attempt_2_Weight,Squat_Attempt_2_Success,Squat_Attempt_3_Weight,Squat_Attempt_3_Success,Bench_Attempt_1_Weight,Bench_Attempt_1_Success,Bench_Attempt_2_Weight,Bench_Attempt_2_Success,Bench_Attempt_3_Weight,Bench_Attempt_3_Success,Deadlift_Attempt_1_Weight,Deadlift_Attempt_1_Success,Deadlift_Attempt_2_Weight,Deadlift_Attempt_2_Success,Deadlift_Attempt_3_Weight,Deadlift_Attempt_3_Success,Rank
+Lifter 9,707,722,Standard Lifter,5,236,True,250,True,259,True,137,True,145,True,150,True,286,True,303,True,313,True,1
+Lifter 6,705,713,Standard Lifter,2,232,False,250,False,255,True,139,True,149,False,152,True,278,True,300,False,306,True,2
+Lifter 5,711,706,Standard Lifter,8,240,True,253,True,261,True,147,True,155,True,160,True,270,False,285,True,300,False,3
+Lifter 8,709,704,Standard Lifter,9,227,True,239,True,248,True,141,True,148,True,153,True,288,True,303,True,320,False,4
+RL Lifter,714,702,RL Agent,1,231,True,242,True,252,False,142,True,149,True,153,True,285,True,299,True,307,True,5
+Lifter 7,712,690,Standard Lifter,3,236,True,250,True,264,False,139,False,147,True,152,True,288,True,311,False,322,False,6
+Lifter 3,693,671,Standard Lifter,6,232,True,249,False,259,False,133,True,142,False,145,True,268,True,288,False,294,True,7
+Lifter 4,706,665,Standard Lifter,4,228,True,245,False,253,False,142,True,153,False,155,True,282,True,303,False,314,False,8
+Lifter 2,669,630,Standard Lifter,7,220,True,235,False,243,False,138,True,147,False,150,True,260,True,279,False,289,False,9
