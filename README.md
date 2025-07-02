@@ -1,8 +1,4 @@
-Sure! Here’s a polished `README.md` file for your reinforcement learning (RL) project that compares RL-generated actions with real-world powerlifting data. You can customize sections like your name, dataset source, and methodology further based on your specific implementation.
 
----
-
-```markdown
 # Reinforcement Learning for Powerlifting Strategy Optimization
 
 ## 🏋️ Overview
@@ -51,23 +47,6 @@ We evaluate the RL agent’s strategies by **comparing its selected actions and 
   - Success rate of attempts
   - Placement simulation (if competing virtually against real lifters)
 
----
-
-## 📁 Project Structure
-
-```
-
-rl-powerlifting/
-│
-├── data/                     # Processed and raw real-world data
-├── env/                      # Custom powerlifting environment
-├── agent/                    # RL training and model code
-├── evaluation/               # Code to compare RL vs real lifters
-├── notebooks/                # Jupyter Notebooks for experiments
-├── results/                  # Plots and results of simulations
-└── README.md                 # You're here!
-
-````
 
 ---
 
@@ -78,44 +57,6 @@ rl-powerlifting/
 - What would happen if real lifters followed the RL policy?
 
 ---
-
-## ⚙️ Requirements
-
-- Python 3.8+
-- `gym` or `gymnasium`
-- `pandas`, `numpy`, `matplotlib`, `seaborn`
-- `stable-baselines3` (or other RL framework)
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-````
-
----
-
-## 🚀 Running the Project
-
-Train the agent:
-
-```bash
-python train_agent.py
-```
-
-Evaluate the agent against real data:
-
-```bash
-python evaluate_against_real.py
-```
-
-Visualize results:
-
-```bash
-jupyter notebook notebooks/analysis.ipynb
-```
-
----
-
 ## 📚 Citation and Dataset Source
 
 If you're using publicly available data (e.g., OpenPowerlifting), include a citation here:
@@ -128,17 +69,6 @@ If you're using publicly available data (e.g., OpenPowerlifting), include a cita
 
 Developed by **Takunda Danha** as part of a research project exploring decision-making and optimization in strength sports using AI.
 
-Supervised by Pravesh Ranchod, University of the Witwatersrand.
+Supervised by Dr Johnathan Kariv, University of the Witwatersrand.
 
----
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
-
-```
-
----
-
-Let me know if you want to turn this into a downloadable PDF, add your logo or badges (e.g., Python version, build passing), or describe your training results in more depth!
-```
